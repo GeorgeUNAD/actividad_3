@@ -1,0 +1,464 @@
+/*font-family: 'Shadows Into Light', cursive;
+ font-family: 'Indie Flower', cursive;
+*/
+#Martin{
+    font: 12;
+    width: 500px;
+    float: left;
+    position: absolute;
+	width: 180px;
+	height: 180px;
+	z-index: 1;
+	left: 50px;
+	top: 600px;
+	font-weight: bold;
+	font-size: 10px;
+    border-top: 3px solid #369;
+    border-bottom: 3px solid #369;
+    border-left: 3px solid #369;
+    border-right: 3px solid #369;
+}
+.multi{
+	z-index: 1;
+	text-align: center;
+	font-size: 16px;
+	color: #000000;
+}
+.vide1{
+	position: absolute;
+	width: 60px;
+	height: 22px;
+	z-index: 1;
+	left: 80px;
+	top: 300px;
+	background-color: #FFF;
+	text-align: center;
+}
+td {
+   width: 10%;
+   text-align: justify-all;
+   vertical-align: top;
+   border: 1px solid #000;
+   border-spacing: 0;
+   font-family: sans-serif;
+   color: #003f5e;
+}
+            #apDiv1 {
+	position: absolute;
+	width: 1000px;
+	height: 168px;
+	z-index: 1;
+	border-radius: 10px 10px 0px 0px;
+            }
+            #apDiv2 {
+	position: absolute;
+	width: 518px;
+	height: 21px;
+	z-index: 1;
+	left: -2px;
+	top: 126px;
+	background-color: #FFFFFF;
+	border-radius: 20px 20px 20px 20px;
+		            }
+            #apDiv3 {
+	position: absolute;
+	width: 251px;
+	height: 50px;
+	z-index: 1;
+	top: 175px;
+	left: 751px;
+            }
+            #apDiv4 {
+	position: absolute;
+	width: 123px;
+	height: 34px;
+	z-index: 1;
+	left: 812px;
+	top: 243px;
+            }
+            #apDiv5 {
+	position: absolute;
+	width: 253px;
+	height: 30px;
+	z-index: 1;
+	left: 729px;
+	top: 293px;
+	background-color: #003f5e;
+	border-radius: 0px 10px 0px 0px;
+	text-align: center;
+	color: #FFFFFF;
+	font-weight: bold;
+	font-size: 18px;
+	clip: rect(auto,auto,auto,auto);
+            }
+            #apDiv6 {
+	position: absolute;
+	width: 224px;
+	height: 154px;
+	z-index: 1;
+	left: 727px;
+	top: 323px;
+            }
+            #apDiv7 {
+	position: absolute;
+	width: 260px;
+	height: 22px;
+	z-index: 1;
+	left: 728px;
+	top: 511px;
+	background-color: #003f5e;
+	text-align: center;
+	color: #FFF;
+	font-weight: bold;
+	font-size: 16px;
+            }
+            #apDiv8 {
+	position: absolute;
+	width: 259px;
+	height: 200px;
+	z-index: 1;
+	left: 729px;
+	top: 543px;
+            }
+            #apDiv9 {
+	position: absolute;
+	width: 33px;
+	height: 35px;
+	z-index: 1;
+	left: 206px;
+	top: -223px;
+            }
+    #apDiv10 {
+        position: absolute;
+        width: 713px;
+        height: 39px;
+        z-index: 2;
+        left: -1px;
+        top: 206px;
+    }
+
+   
+   strong {
+
+   }
+div {
+	text-align: center;
+}
+        div {
+	font-size: 18px;
+}
+
+form {
+	font-size: 12px;
+}
+        #apDiv11 {
+	position: absolute;
+	width: 267px;
+	height: 31px;
+	z-index: 1;
+	left: -14px;
+	top: -2px;
+	font-weight: normal;
+	bottom: -1px;
+}
+        #apDiv12 {
+	position: absolute;
+	width: 260px;
+	height: 24px;
+	z-index: 1;
+	left: 2px;
+	top: 1px;
+	font-weight: normal;
+	bottom: -1px;
+}
+        #apDiv13 {
+	position: absolute;
+	width: 225px;
+	height: 41px;
+	z-index: 2;
+	left: 64px;
+	top: 982px;
+}
+        #apDiv14 {
+	position: absolute;
+	width: 98px;
+	height: 68px;
+	z-index: 3;
+	left: 546px;
+	top: 22px;
+	border-radius: 0px 0px 0px 0px;
+}
+        #apDiv15 {
+	position: absolute;
+	width: 260px;
+	height: 24px;
+	z-index: 4;
+	left: 729px;
+	top: 748px;
+	background-color: #003f5e;
+}
+        #apDiv16 {
+	position: absolute;
+	width: 252px;
+	height: 24px;
+	z-index: 5;
+	left: 732px;
+	top: 749px;
+	color: #FFF;
+	font-size: 18px;
+	font-weight: normal;
+}
+        #apDiv17 {
+	position: absolute;
+	width: 260px;
+	height: 78px;
+	z-index: 6;
+	left: 730px;
+	top: 885px;
+}
+        #apDiv18 {
+	position: absolute;
+	width: 200px;
+	height: 115px;
+	z-index: 7;
+	left: 729px;
+	top: 777px;
+}
+        #apDiv19 {
+	position: absolute;
+	width: 138px;
+	height: 43px;
+	z-index: 8;
+	left: 613px;
+	top: 194px;
+	color: #FFFFFF;
+}
+        #apDiv20 {
+	position: absolute;
+	width: 39px;
+	height: 18px;
+	z-index: 9;
+	left: 768px;
+	top: 244px;
+}
+        .class body section article p {
+	font-weight: bold;
+}
+        #apDiv21 {
+	position: absolute;
+	width: 200px;
+	height: 115px;
+	z-index: 10;
+	left: 272px;
+	top: 745px;
+}
+        #apDiv22 {	position: absolute;
+	width: 200px;
+	height: 115px;
+	z-index: 10;
+	left: 320px;
+	top: 751px;
+}
+        #apDiv23 {
+	position: absolute;
+	width: 669px;
+	height: 51px;
+	z-index: 10;
+	left: 308px;
+	top: 975px;
+}
+        #apDiv24 {
+	position: absolute;
+	width: 750px;
+	height: 21px;
+	z-index: 1;
+	left: 120px;
+	top: 142px;
+	color: #006680;
+	border-top-color: #006680;
+}
+        #apDiv25 {
+	position: absolute;
+	width: 360px;
+	height: 30px;
+	z-index: 10;
+	left: 436px;
+	top: 980px;
+	font-size: 12px;
+	color: #FFF;
+}
+        #apDiv26 {
+	position: absolute;
+	width: 576px;
+	height: 26px;
+	z-index: 11;
+	left: 328px;
+	top: 996px;
+	font-size: 12px;
+	color: #FFF;
+}
+        #apDiv27 {
+	position: absolute;
+	width: 200px;
+	height: 31px;
+	z-index: 12;
+	font-size: 12px;
+	color: #FFF;
+	left: 516px;
+	top: 1012px;
+}
+#contenidos{
+	width: 1000px;
+	height: auto;
+	margin: auto;
+	position: relative;
+	color: #000;
+}
+/*ETIQUETAS*/
+body{
+
+background-repeat: no-repeat;
+background-size: cover;
+background-color: black;
+position: relative;
+}
+h1{
+	font-family: Arial, Helvetica, sans-serif;
+	color: white;
+	margin-left: 10px;
+	font-size: 60px;
+	text-align: center;
+}
+h2{
+	font-family: Arial, Helvetica, sans-serif;
+	color: #1C2123;
+	margin-left: 10px;
+	font-size: 15px;
+	text-align: center;
+	border-top: #006680;
+}
+h3{
+	font-family: Arial, Helvetica, sans-serif;
+	;
+	color: white;
+	font-size: 11px;
+	text-align: center;
+}
+header{
+	width: 1000px;
+	height: 120 px;
+	background: rgba(255, 255, 255, 10,70);
+}
+
+nav{
+	border-radius: 10px;
+}
+section{
+	width: 713px;
+	background: white;
+	height: 720px;
+	float: left;
+	margin-top: 7px;
+	border-radius: 10px 0px 0px 0px;
+}
+aside{
+	width: 280px;
+	background: white;
+	height: 720px;
+	float: left;
+	margin-left: 7px;
+	margin-top: 7px;
+	border-radius: 0px 10px 0px 0px;
+}
+footer{
+	width: 1000px;
+	height: 70px;
+	background: black;
+	float: left;
+	margin-top: 7px;
+	border-radius: 0px 0px 10px 10px;
+	margin-bottom: 20px;
+	font-size: 12px;
+	text-align: left;
+	position: relative;
+}
+p{
+
+	font-size: 15px;
+	font-weight: bolder;
+	line-height: 24px;
+	padding: 10px;
+	text-align: justify;
+}
+/*CLASES*/
+.menu:link{color: white; text-decoration: none;}
+.menu:visited{color: white; text-decoration: none;}
+.menu:hover{color: white; text-decoration: none; text-shadow: 0 0 13px white;}
+.menu:active{color: white; text-decoration: none;}
+
+.menu  li {
+	display: table-cell;
+	table-layout: fixed;
+	font-size: 17px;
+	border-right: 1px solid #5C5C5C;
+	border-left: 1px solid rgba(255,255,255,.2);
+	font-family: "Franklin Gotic Book",Times;
+}
+
+
+/*Caja contenedora*/   
+#wrap { font-size: auto; width: auto; padding: 7px;
+        margin: 0 auto; /*Da lugar al centrado de la caja en el elemento superior body*/
+        background-color: #003F5E;
+    -khtml-border-radius: 5px;
+-moz-border-radius: 5px;
+-webkit-border-radius: 5px;
+border-radius: 5px;
+border: 1px solid #cccccc;
+}
+
+/* Estilos que crean el menú desplegable */
+/*Eliminamos padding y margin que introducen navegadores por defecto en listas*/
+#navbar { padding:0; margin:0; }
+
+/*Elementos items principales de menú que se muestran siempre*/
+#navbar li { list-style: none; float: left; margin:10px;}
+   
+#navbar li a {
+   display: block; /* Usamos display block para poder aplicar propiedades de caja a links */
+   padding: 3px 8px; background-color: #003F5E; color: #fff;
+   text-decoration: none; }
+
+/*Listas de subitems de menú*/   
+#navbar li ul {
+   display: none; /*La lista inicialmente no se muestra debido a display:none; */
+   background-color: gray;
+-khtml-border-radius: 5px;
+-moz-border-radius: 5px;
+-webkit-border-radius: 5px;
+border-radius: 5px;
+border: 1px solid #cccccc;}
+   
+#navbar li:hover ul {
+   font-size: 12px;
+   display: block; /*Al situar el cursor sobre el item la lista de subitems pasa de display none a display block y se muestra*/
+   position: absolute; /*Al desplegarse el submenú no ocupa espacio y no desplaza a otros elementos gracias a que establecemos position absolute*/
+   margin: 0; padding: 0; /*Anulamos margin y padding que por defecto introducen navegadores*/
+   }
+#navbar li:hover li { float: none; } /*Anulamos el float left que define el elemento padre para que los subitems se muestren en vertical */
+   
+/*Creamos la apariencia de los subitems de menú, color de fondo, borde inferior, color de texto*/
+#navbar li:hover li a { background-color: gray; border-bottom: 3px; solid #fff; color: #000; }
+
+/*Creamos el efecto de cambio de color y aspecto cuando ponemos el puntero del ratón sobre un subitem de menú*/   
+#navbar li li a:hover { background-color: orange; }
+   
+.limpiador{padding:0; border-style:none; clear:both; } /*Forzamos a la caja a mostrarse aún conteniendo elementos flotantes*/
+
+
+/*SEUDO CLASES*/
+p {
+	font-size: 12px;
+	font-weight: normal;
+	color: #333;
+}

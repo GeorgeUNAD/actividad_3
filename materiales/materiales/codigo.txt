@@ -1,0 +1,20 @@
+<!--  MiPCsoluciones -->
+
+<link href="cod_fotos/main.css" rel="stylesheet" type="text/css" />
+<SCRIPT src="cod_fotos/prototype1600.js" type=text/javascript></SCRIPT>
+<SCRIPT language=javascript src="cod_fotos/alt.js" type=text/javascript></SCRIPT>
+<SCRIPT language=javascript src="cod_fotos/preview_templates.js" type=text/javascript></SCRIPT>
+<SCRIPT language=javascript src="cod_fotos/loader.js" type=text/javascript></SCRIPT>
+<SCRIPT language=javascript src="cod_fotos/AC_RunActiveContent.js" type=text/javascript></SCRIPT>
+<SCRIPT language=javascript type=text/javascript> 
+<!--
+Event.observe(window,'load', function() {
+  initAlts();
+});
+ 
+// -->
+
+</SCRIPT>
+
+
+<!--  MiPCsoluciones -->

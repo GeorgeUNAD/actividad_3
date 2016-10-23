@@ -1,0 +1,4 @@
+<script type=text/javascript>
+new TemplatePreview('1', {
+title:  'ANGELINA JOLEI', src:'img/angelina_jolie_pequeño.jpg', width:400, height:350});
+</SCRIPT>
